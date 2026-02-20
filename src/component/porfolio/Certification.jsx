@@ -13,7 +13,7 @@ export function Certification()
                 <img data-aos="zoom-in-down" src="./images/certificate2.png"></img>
                 <div className="perContent">
                     <h2>April 2025|&nbsp;<span style={{color:"rgb(208, 160, 35)"}}>PSEB</span></h2>
-                    <h3>Full Stack Development Workshopg</h3>
+                    <h3>Full Stack Development Workshop</h3>
                     <p>Intensive workshop on full-stack web development covering front-end and back-end technologies, database management, and deployment strategies.</p>
                 </div>
             </div>
