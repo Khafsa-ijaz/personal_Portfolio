@@ -67,8 +67,8 @@ I’m always open to new opportunities and collaborations. Let’s build somethi
         
           </div>
 
-          {/* Contact Form */}
-          <form  ref={form} onSubmit={sendEmail}  className="contact-form">
+          {/* Contact Form onSubmit={sendEmail}*/}
+          <form  ref={form}   className="contact-form">
             <input type="text"  name="user_name" placeholder="Your Name" required />
             <input type="email" name="user_email" placeholder="Your Email" required />
             <textarea placeholder="Your Message" name="message" required></textarea>
